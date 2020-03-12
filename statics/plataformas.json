@@ -1,0 +1,90 @@
+{
+   "\"atg\"": {
+        "id": 1,
+        "value": "ATG"
+    },
+   "\"chleba\"": {
+        "id": 2,
+        "value": "Chleba"
+    },
+   "\"cia shop\"": {
+        "id": 3,
+        "value": "Cia Shop"
+    },
+   "\"core\"": {
+        "id": 4,
+        "value": "CORE"
+    },
+   "\"e-smart\"": {
+        "id": 5,
+        "value": "e-Smart"
+    },
+   "\"ez commerce\"": {
+        "id": 6,
+        "value": "EZ Commerce"
+    },
+   "\"fbits\"": {
+        "id": 7,
+        "value": "FBits"
+    },
+   "\"hybris - sap\"": {
+        "id": 8,
+        "value": "Hybris - SAP"
+    },
+   "\"ibm\"": {
+        "id": 9,
+        "value": "IBM"
+    },
+   "\"infracommerce\"": {
+        "id": 10,
+        "value": "Infracommerce"
+    },
+   "\"magento\"": {
+        "id": 11,
+        "value": "Magento"
+    },
+   "\"oracle\"": {
+        "id": 12,
+        "value": "Oracle"
+    },
+   "\"própria\"": {
+        "id": 13,
+        "value": "Própria"
+    },
+   "\"rakuten\"": {
+        "id": 14,
+        "value": "Rakuten"
+    },
+   "\"vertis\"": {
+        "id": 15,
+        "value": "VERTIS"
+    },
+   "\"vtex\"": {
+        "id": 16,
+        "value": "VTex"
+    },
+   "\"web jump\"": {
+        "id": 17,
+        "value": "Web Jump"
+    },
+   "\"cart functionality\"": {
+        "id": 18,
+        "value": "Cart Functionality"
+    },
+   "\"sydle\"": {
+        "id": 19,
+        "value": "Sydle"
+    },
+   "\"tray\"": {
+        "id": 20,
+        "value": "Tray"
+    },
+   "\"dinamize\"": {
+        "id": 21,
+        "value": "Dinamize"
+    },
+   "\"null\"": {
+        "id": "null",
+        "value": "null"
+    }
+}

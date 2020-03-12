@@ -1,0 +1,114 @@
+{
+    "busca": {
+        "id": 1,
+        "Name": "Busca"
+    },
+    "vitrines": {
+        "id": 2,
+        "Name": "Vitrines"
+    },
+    "mail": {
+        "id": 3,
+        "Name": "Mail"
+    },
+    "api": {
+        "id": 4,
+        "Name": "Api"
+    },
+    "wishlist": {
+        "id": 5,
+        "Name": "Wishlist"
+    },
+    "review": {
+        "id": 6,
+        "Name": "Review"
+    },
+    "busca > mobile": {
+        "id": 7,
+        "Name": "Busca > mobile"
+    },
+    "busca > app": {
+        "id": 8,
+        "Name": "Busca > app"
+    },
+    "vitrines > mobile": {
+        "id": 9,
+        "Name": "Vitrines > mobile"
+    },
+    "vitrines > app": {
+        "id": 10,
+        "Name": "Vitrines > app"
+    },
+    "mobile app": {
+        "id": 11,
+        "Name": "Mobile app"
+    },
+    "ofertas patrocinadas": {
+        "id": 12,
+        "Name": "Ofertas patrocinadas"
+    },
+    "collection": {
+        "id": 13,
+        "Name": "Collection"
+    },
+    "totem": {
+        "id": 14,
+        "Name": "Totem"
+    },
+    "serviço": {
+        "id": 15,
+        "Name": "Serviço"
+    },
+    "integração serviço": {
+        "id": 16,
+        "Name": "Integração serviço"
+    },
+    "site mobile": {
+        "id": 17,
+        "Name": "Site mobile"
+    },
+    "novo produto": {
+        "id": 18,
+        "Name": "Novo produto"
+    },
+    "renegociação": {
+        "id": 19,
+        "Name": "Renegociação"
+    },
+    "busca (api / nav. cat.)": {
+        "id": 20,
+        "Name": "Busca (api / nav. cat.)"
+    },
+    "banners": {
+        "id": 21,
+        "Name": "Banners"
+    },
+    "cookiepool": {
+        "id": 22,
+        "Name": "Cookiepool"
+    },
+    "audience": {
+        "id": 23,
+        "Name": "Audience"
+    },
+    "webpush": {
+        "id": 24,
+        "Name": "Webpush"
+    },
+    "overlay": {
+        "id": 25,
+        "Name": "Overlay"
+    },
+    "mail sb": {
+        "id": 26,
+        "Name": "Mail sb"
+    },
+    "percycle vitrines": {
+        "id": 27,
+        "Name": "Percycle vitrines"
+    },
+    "percycle busca": {
+        "id": 28,
+        "Name": "Percycle busca"
+    }
+}
