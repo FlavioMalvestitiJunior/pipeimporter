@@ -223,6 +223,10 @@ def get_sells(plataformas):
 
     return sells
 
+def get_float(toNumber):
+    if toNumber ==  'null':
+        return toNumber
+    return re.sub(r'/,/', '', toNumber)
 
 def get_product_sells(produtos, imp_types, sells, sell_stages):
     sqlf = open(databaseFile, "a+")
@@ -235,6 +239,10 @@ def get_product_sells(produtos, imp_types, sells, sell_stages):
     for row in ws.iter_rows(min_row=2):
         if row[1].value is None:
             break
+        
+        if i == 137:
+            print(row[9])
+
         prod_sells[i] = {
             "id": i,
             "Name": null_for_none(row[6].value),
@@ -244,7 +252,7 @@ def get_product_sells(produtos, imp_types, sells, sell_stages):
             "BillingConditionManager": coalesce(row[10].value, ''),
             "BillingConditionRevenues": re.sub('\n', '', coalesce(row[11].value, '')),
             "CommercialMonitoring": re.sub('\n', '', coalesce(row[19].value)),
-            "RecurrentBilling": null_for_none(row[14].value),
+            "RecurrentBilling": get_float(null_for_none(row[14].value)),
             "RecurrentBillingObs": "''",  # ver oq eue é
             "RnrTotalValue": null_for_none(row[18].value),
             "RnrServiceObs": null_for_none(row[16].value),
