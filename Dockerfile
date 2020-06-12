@@ -13,7 +13,7 @@ WORKDIR /opt
 
 COPY . /opt
 
-RUN pip3 install openpyxl
+RUN pip3 install openpyxl gspread mysql-connector-python
 
 ENTRYPOINT ["python3"]
 CMD ["app.py"]

@@ -1,2 +1,4 @@
 input/*
 output/*
+secret.json
+mysqlconfig.json
