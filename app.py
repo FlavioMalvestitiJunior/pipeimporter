@@ -12,7 +12,7 @@ sh = gc.open("[NOVO] Pipe Integração + Faturamento - NEEMU/CHAORDIC")
 plataformas_file = "/opt/statics/plataformas.json"
 produtos_file = "/opt/statics/produtos.json"
 mysqlconfig = "/opt/mysqlconfig.json"
-databaseFileSheets = "/opt/output/testefromSheets.sql"
+databaseFileSheets = "/opt/output/sql2import.sql"
 premissas = 'PREMISSAS'
 pipe = 'PIPE 2019'
 
